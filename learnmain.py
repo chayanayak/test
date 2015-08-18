@@ -1,4 +1,5 @@
 import Functions
+import pandas
 
 print(Functions.my_func(10,50000))
 
